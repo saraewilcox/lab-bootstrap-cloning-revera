@@ -1,0 +1,102 @@
+.navbar {
+    margin-top: 70px;
+}
+
+#navbar-brand {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 32px; font-style: bold;
+    color: black;
+}
+
+.nav-item {
+    font-family: 'Oxygen';font-size: 14px;
+}
+
+.navbar-light {
+    color: #838181;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #838181;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #838181;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(238, 9, 9) !important;
+}
+
+.dropdown-menu>a:hover {
+    color: rgb(238, 9, 9) !important;
+ }
+
+.carousel-item > img {
+    filter: gray;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+  }
+
+
+
+
+
+.button {
+    background: none;
+    border: 1px solid white;
+    color: white;
+    padding: 5px 30px;
+  }
+
+.col-sm-4 {
+    padding-top: 5px;
+}
+
+#widgets {
+    background-color: #F93F3F;
+    color: white;
+    padding: 30px 0;
+  }
+
+#projects {
+    padding-top: 50px;
+}
+
+#articles {
+    padding-top: 50px;
+}
+
+.figure-caption {
+    font-family: 'Oxygen';font-size: 12px; font-style: bold;
+}
+
+span {
+    color: #F93F3F;
+  }
+
+.footer-border {
+    background-color: #F93F3F;
+    margin: 0;
+    height: 3px;
+  }
+
+  footer {
+    background: gray;
+    color: white;
+  }
+  
+  #footer-menu {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  
+  #copyright {
+    background: dimgray;
+    padding: 10px 0;
+  }
+  
+  li {
+    border-bottom: 1px dashed white;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+  }
